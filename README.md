@@ -17,7 +17,7 @@ During studies I had courses which included the following topics:
 Example projects I made during my studies (all links in Polish):
 - [Efekt korony](https://efekt-korony.github.io)  - analysis of influence of coronavirus pandemics on crime rate, social media, newspapers, and public transport in Poland. All interactive visualizations were made in Altair.
 - [Głos danych](https://smapwr.github.io/posters/2019_2020/pdf/glos_danych.pdf) - scraping articles and comments from a network of local newspaper in different regions of Poland, connected with topic modeling and sentiment classification
-- [Sieci neuronowe dla Lotnictwa i Kosmonautyki](https://github.com/chalggg/sieci-neuronowe-lik) - very simple introductory presentation about neural networks with code example in Jupyter Notebook. I presented it to give my fellow student a good starting for training their own NNs
+- [Sieci neuronowe dla Lotnictwa i Kosmonautyki](https://github.com/chalggg/sieci-neuronowe-lik) - very simple introductory presentation about neural networks with code example in Jupyter Notebook. I presented it to give my fellow student a good starting point for training their own NNs
 
 My Bachelor studies taught me about:
 - algorithmics (including analysis of computational complexity)
