@@ -9,18 +9,19 @@ During studies I had courses which included the following topics:
 - Deep learning - theoretical background of different network types (LSTM, RNN, CNN, Capsule Networks, attention), practical training with Tensorflow with CNNs (image classification) and LSTMs (sentiment classification), also ensembling of neural networks
 - Natural Language Processing (NLP) -  part-of-speech tagging (MorphoDiTa), word embeddings (Word2Vec, FastText), topic modeling (LDA, BigARTM)
 - Probabilistic Modeling - implementation of basic probabilistic models in Pyro.ai
-- Computer Vision - non neural algorithms like Canny edge detector and FFT
+- Computer Vision - non-neural algorithms like Canny edge detector and FFT
 - Social Media Analysis (Twitter and Reddit, also comments under local newspapers articles, scraping with Scrapy)
-- Large Scale Data Processing - building data processing pipeline with Docker, Kubernetes, Celery and PySpark
+- Large Scale Data Processing - building data processing pipeline with Docker, Kubernetes, Celery, AWS and PySpark
 
-Example projects I made during my studies:
-- [Efekt korony](https://efekt-korony.github.io) (in Polish) - analysis of influence of coronavirus pandemics on crime rate, social media, newspapers, and public transport in Poland
+Example projects I made during my studies (all links in Polish):
+- [Efekt korony](https://efekt-korony.github.io)  - analysis of influence of coronavirus pandemics on crime rate, social media, newspapers, and public transport in Poland. All interactive visualizations were made in Altair.
 - [Głos danych](https://smapwr.github.io/posters/2019_2020/pdf/glos_danych.pdf) - scraping articles and comments from a network of local newspaper in different regions of Poland, connected with topic modeling and sentiment classification
+- [Sieci neuronowe dla Lotnictwa i Kosmonautyki](https://github.com/chalggg/sieci-neuronowe-lik) - very simple introductory presentation about neural networks with code example in Jupyter Notebook. I presented it to give my fellow student a good starting for training their own NNs
 
 My Bachelor studies taught me about:
 - algorithmics (including analysis of computational complexity)
 - web design
-- architecture of computers (including basics of ARM and x86 assembly)
+- architecture of computers and operating systems (including basics of ARM and x86 assembly)
 - mathematical background (topology, graph theory, complex calculus)
 
 ## Programming languages I speak:
