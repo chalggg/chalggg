@@ -9,9 +9,10 @@ During studies I had courses which included the following topics:
 - Deep learning - theoretical background of different network types (LSTM, RNN, CNN, Capsule Networks, attention), practical training with Tensorflow with CNNs (image classification) and LSTMs (sentiment classification), also ensembling of neural networks
 - Natural Language Processing (NLP) -  part-of-speech tagging (MorphoDiTa), word embeddings (Word2Vec, FastText), topic modeling (LDA, BigARTM)
 - Probabilistic Modeling - implementation of basic probabilistic models in Pyro.ai
-- Computer Vision - non-neural algorithms like Canny edge detector and FFT
-- Social Media Analysis (Twitter and Reddit, also comments under local newspapers articles, scraping with Scrapy)
+- Computer Vision - non-neural algorithms like Canny edge detector, done small project in recognizing geometric shapes with OpenCV
+- Social media analysis (Twitter and Reddit, also comments under local newspapers articles, scraping with Scrapy)
 - Large Scale Data Processing - building data processing pipeline with Docker, Kubernetes, Celery, AWS and PySpark
+- Basics of machine learning - algorithms like NaiveBayes, SVM, decision trees and clustering
 
 Example projects I made during my studies (all links in Polish):
 - [Efekt korony](https://efekt-korony.github.io)  - analysis of influence of coronavirus pandemics on crime rate, social media, newspapers, and public transport in Poland. All interactive visualizations were made in Altair.
@@ -25,10 +26,10 @@ My Bachelor studies taught me about:
 - mathematical background (topology, graph theory, complex calculus)
 
 ## Programming languages I speak:
-- Python - used for data analysis and neural network training, but also as a way to control embedded devices through serial port and scrap websites. Useful libraries I use: Pandas, Numpy, Matplotlib, Altair (visualization), Tensorflow, Pyserial
+- Python - used for data analysis and neural network training, but also as a way to control embedded devices through serial port and scrap websites. Useful libraries I use: Pandas, Numpy, Scikit-learn, Matplotlib, Altair (visualization), Tensorflow, Pyserial,
 - C/C++: programming embedded devices (mostly Arduino, but recently also STM32), also some experience with Linux system programming. Mostly using pure C, but recently reading and experimenting more with C++.
 - Java - my main language during Bachelor studies, recently a little bit forgotten
-- Javascript/HTML/CSS - I can design, program and style simple websites. I have some experience using Chrome's DevTools. During my cooperation with students research circle KN Pirm at my university I setup Node.js server which streamed realtime video to users and showed electric motorcycle's position on a map.
+- Javascript/HTML/CSS - I can design, program and style simple websites. I have some experience using Chrome's DevTools. During my cooperation with students research circle KN Pirm at my university I setup a Node.js server which streamed realtime video to users and showed electric motorcycle's position on a map.
 
 
 
