@@ -27,7 +27,7 @@ My Bachelor studies taught me about:
 - databases (SQL, normal forms)
 
 ## Programming languages I speak:
-- Python - used for data analysis and neural network training, but also as a way to control embedded devices through serial port and scrap websites. Useful libraries I use: Pandas, Numpy, Scikit-learn, Matplotlib, Altair (visualization), Tensorflow, Pyserial,
+- Python - used for data analysis and neural network training, but also as a way to control embedded devices through serial port and scrap websites. Useful libraries I use: Pandas, Numpy, Scikit-learn, Matplotlib, Altair (visualization), Tensorflow, JupyterNotebook, Pyserial,
 - C/C++: programming embedded devices (mostly Arduino, but recently also STM32), also some experience with Linux system programming. Mostly using pure C, but recently reading and experimenting more with C++.
 - Java - my main language during Bachelor studies, recently a little bit forgotten
 - Javascript/HTML/CSS - I can design, program and style simple websites. I have some experience using Chrome's DevTools. During my cooperation with students research circle KN Pirm at my university I setup a Node.js server which streamed realtime video to users and showed electric motorcycle's position on a map.
