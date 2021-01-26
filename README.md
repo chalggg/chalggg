@@ -35,7 +35,7 @@ My Bachelor studies taught me about:
 
 
 
-During my studies I tried numerous different programming languages like: Prolog, Erlang, VHDL and Oz but I can't say I know them very well.
+During my studies I tried numerous different programming languages like: Prolog, Erlang, VHDL and Oz.
 
 
 
