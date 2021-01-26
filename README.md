@@ -1,6 +1,6 @@
 ### Who am I? 
 
-Young and ambitious programmer from Poland. I am interested in machine learning and embedded systems. Privately addicted to watching movies and reading books. Currently studying Aerospace Design which is my other passion.
+Young and ambitious programmer from Poland. I am interested in machine learning and embedded systems. Privately addicted to tinkering with electronics, reading science news and watching movies. Currently studying Aerospace Design which is my other passion.
 
 ## My education 
 I got my Master of Science (Polish: magister) at Wrocław University of Science and Technology.
