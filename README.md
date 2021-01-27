@@ -1,6 +1,6 @@
 ### Who am I? 
 
-Young and ambitious programmer from Poland. I am interested in machine learning and embedded systems. Privately addicted to tinkering with electronics, reading science news and watching movies. Currently studying Aerospace Design which is my other passion.
+Young and aspiring Python programmer with a Master's degree in Computer Science. Determined to put the machine learning and embedded systems skills, gained during the master's studies, into further practice. Privately addicted to tinkering with electronics and reading science news. Currently studying my other passion - Aerospace Design.
 
 ## My education 
 I got my Master of Science (Polish: magister) at Wrocław University of Science and Technology.
@@ -26,7 +26,7 @@ My Bachelor studies taught me about:
 - mathematical background (topology, graph theory, complex calculus)
 - databases (SQL, normal forms)
 
-## Programming languages I speak:
+## Programming languages I ''speak'':
 - Python - used for data analysis and neural network training, but also as a way to control embedded devices through serial port and scrap websites. Useful libraries I use: Pandas, Numpy, Scikit-learn, Matplotlib, Altair (visualization), Tensorflow, JupyterNotebook, Pyserial,
 - C/C++: programming embedded devices (mostly Arduino, but recently also STM32), also some experience with Linux system programming. Mostly using pure C, but recently reading and experimenting more with C++.
 - Java - my main language during Bachelor studies, recently a little bit forgotten
